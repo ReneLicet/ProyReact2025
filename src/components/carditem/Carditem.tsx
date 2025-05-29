@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import { CursoProps } from "../../types/curso";
 
-function Carditem({ descripcion, foto, nombre, precio, id }: CursoProps) {
+function Carditem({ descripcion, foto, nombre,  id }: CursoProps) {
     return (
         <a className="group block rounded-xl overflow-hidden focus:outline-hidden" href="#">
             <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5">
