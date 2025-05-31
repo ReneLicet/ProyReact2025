@@ -6,7 +6,7 @@ function header() {
                     <div className="flex items-center">
 
                         <a className="flex-none rounded-md text-xl inline-block font-semibold focus:outline-hidden focus:opacity-80" href="../templates/personal/index.html" aria-label="Preline">
-                        <img src="../../public/fotos/logo.png" className="max-w-[20%]"></img>
+                        <img src="https://proy-react2025-git-main-renee-cardenas-projects.vercel.app/fotos/LOGO.png" className="max-w-[20%]"></img>
                         </a>
                         <div className="ms-1 sm:ms-2">
 
