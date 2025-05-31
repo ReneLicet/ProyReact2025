@@ -21,7 +21,7 @@ function Home2() {
     <main>
       <Header></Header>
 
-      <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+      <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto md:items-center">
 
         <div className="grid lg:grid-cols-2 lg:gap-y-16 gap-10">
         {Array.isArray(cursos) ? cursos.map((curso: CursoProps) => (

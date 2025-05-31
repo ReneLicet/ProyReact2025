@@ -5,7 +5,7 @@ function footer() {
     <div className="flex flex-wrap justify-between items-center gap-2">
       <div>
         <p className="text-xs text-gray-600 dark:text-neutral-400">
-          © 2025 Preline Labs.
+          © 2025 Ronsoco Guru
         </p>
       </div>
   
